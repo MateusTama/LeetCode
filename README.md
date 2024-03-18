@@ -1,6 +1,6 @@
 # Algoritmo
 
-Repositório destinado para alocação da resolução de desafios do Leet Code.
+Repositório destinado para alocação da resolução de desafios do [Leet Code](https://leetcode.com/problemset/).
 
 ## Métodos
 
